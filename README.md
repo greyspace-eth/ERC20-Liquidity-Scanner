@@ -18,7 +18,7 @@ Liquidity Scanner is a bot that scans for liquidity added to ERC20 tokens on Eth
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/liquidity-scanner.git
+    git clone https://github.com/greyspace-eth/liquidity-scanner.git
     cd liquidity-scanner
     ```
 

@@ -1,0 +1,28 @@
+{
+    "name": "liquidity-scanner",
+    "version": "1.0.0",
+    "description": "A bot to scan for liquidity added to ERC20 tokens on Ethereum.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "axios": "^0.21.1",
+      "ethers": "^5.0.0",
+      "dotenv": "^10.0.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/yourusername/liquidity-scanner.git"
+    },
+    "keywords": [
+      "Ethereum",
+      "ERC20",
+      "Liquidity",
+      "Scanner",
+      "Uniswap"
+    ],
+    "author": "Grayson Lim",
+    "license": "MIT"
+  }
+  
